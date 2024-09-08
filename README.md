@@ -1,6 +1,6 @@
 # Package Sorting Function
 
-This repository contains a Python function `sort` designed to classify and dispatch packages to the appropriate stack based on their volume, dimensions, and mass. The function is intended for use in a robotic automation factory environment.
+This repository contains a Python function `sort` designed to classify and dispatch packages to the appropriate stack based on their volume, dimensions, and mass. The function is intended for use in a robotic automation factory environment. Here is the example output for various inputs:
 
 print(sort(160, 120, 80, 18))  #Output: SPECIAL
 
